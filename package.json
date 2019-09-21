@@ -6,8 +6,8 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.8.6",
-    "react-lines-ellipsis": "^0.13.1",
-    "react-scripts": "1.1.4"
+    "react-lines-ellipsis": "^0.14.1",
+    "react-scripts": "3.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://seongjoojin.github.io/movie_app",
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^2.1.1"
   }
 }
